@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">V01</string>
+    <string name="hello">Hello!</string>
+    <string name="bye">Bye</string>
+    <string name="author">Выполнено Вакуровой Валентиной</string>
+    <string name="button1">Button1</string>
 </resources>
